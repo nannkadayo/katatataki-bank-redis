@@ -2,6 +2,7 @@
 
 肩たたき券の発行と管理を行うシステム
 やったことはkvに依存せずredisで動くようにしただけ
+ちなみにlocalhost:6379に接続します
 ## Demo
 
 動画: [Youtube](https://youtu.be/erAeIJD5qLY?si=qh6QFKTZPkJMyeBp)
