@@ -1,7 +1,7 @@
 # Katatataki Bank
 
 肩たたき券の発行と管理を行うシステム
-やったことはkvに依存せずredisで動くようにしただけ
+今までのラムダ技術部の肩たたき銀行に加えてbanやステータス管理などの高度なマネジメント機能が追加されました
 ちなみにlocalhost:6379に接続します
 ## Demo
 
@@ -10,7 +10,7 @@
 ### 肩たたき券発行フォーム
 
 ```
-https://url/admin
+https:// katatataki-bank.vercel.app/create
 ```
 
 ### 肩たたき券検証フォーム
