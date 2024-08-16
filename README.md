@@ -10,15 +10,15 @@
 ### 肩たたき券発行フォーム
 
 ```
-https:// katatataki-bank.vercel.app/create
+https://url/admin
 ```
 
 ### 肩たたき券検証フォーム
 
 ```
-https:// katatataki-bank.vercel.app/update
+https://url/update
 ```
-
+![alt text](<examples/スクリーンショット 2024-08-16 152119.png>)
 ## How to Use
 
 You can choose from one of the following two methods to use this repository:
