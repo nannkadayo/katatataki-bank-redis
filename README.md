@@ -10,7 +10,7 @@
 ### 肩たたき券発行フォーム
 
 ```
-https:// url/create
+https:// url/admin
 ```
 
 ### 肩たたき券検証フォーム
