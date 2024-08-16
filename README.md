@@ -10,7 +10,7 @@
 ### 肩たたき券発行フォーム
 
 ```
-https:// katatataki-bank.vercel.app/create
+https:// katatataki-bank.vercel.app/admin
 ```
 
 ### 肩たたき券検証フォーム
