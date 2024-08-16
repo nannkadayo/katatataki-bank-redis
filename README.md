@@ -10,13 +10,13 @@
 ### 肩たたき券発行フォーム
 
 ```
-https:// katatataki-bank.vercel.app/create
+https:// url/create
 ```
 
 ### 肩たたき券検証フォーム
 
 ```
-https://url/update
+https:// url/update
 ```
 ![alt text](<examples/スクリーンショット 2024-08-16 152119.png>)
 ## How to Use
